@@ -2,9 +2,9 @@
   "main": {
     "name": "Ameer Hamza",
     "occupation": "Frontend Software Developer",
-    "description": "I work on Frontend currently focused on WEB3.0",
+    "description": "I work on Frontends & DevOps Engineer.",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Ameer Hamza! You might be looking for Frontend Developer for your growing team then you are on the right place. I've been coding for over 2+ years now. I am experienced in working Agile environment As a Frontend developer I've worked both with startups and large corporations to help build & scale their companies. I develop applications and determine the structure and design of web pages, striking a balance between functional and aesthetic design, and ensuring web design is optimized for smartphones. I design the applications by using Tailwind, bootstrap, Material Ui, styled-components and custom styling(SCSS). I build web apps by converting the PSD and Figma design into responsive screens.",
+    "bio": "Hi there! I am Ameer Hamza! You might be looking for Frontend Developer/ DevOps Engineer for your growing team then you are on the right place. Experience in Agile and Waterfall Methodologies and delivery on timely basis. Hands on Experience on CI Tools likes Jenkins Strong experience with using broad range of Aws Services. I've been coding for over 3+ years now. I am experienced in working Agile environment As a Frontend developer I've worked both with startups and large corporations to help build & scale their companies. I develop applications and determine the structure and design of web pages, striking a balance between functional and aesthetic design, and ensuring web design is optimized for smartphones. I design the applications by using Tailwind, bootstrap, Material Ui, styled-components and custom styling(SCSS). I build web apps by converting the PSD and Figma design into responsive screens.",
     "contactmessage": "Get in touch with me if you want me to be part of your growing team.",
     "email": "ameer02hamza@gmail.com",
     "phone": "+971508162012",
@@ -15,7 +15,7 @@
       "zip": ""
     },
     "website": "",
-    "resumedownload": "images/portfolio/AmeerHamza(Resume).pdf",
+    "resumedownload": "images/portfolio/AmeerHamza_Frontend.pdf",
     "social": [
       {
         "name": "linkedin",
@@ -49,13 +49,13 @@
         "company": "Topaz, Dubai UAE",
         "title": "Frontend Developer",
         "years": "Dec 2021 - Present",
-        "description": "Building the fullstack Application with .NetCore and (React/Angular)."
+        "description": "TOPAZ is a Communication, Infrastructure & Networking Solution provider focused on deploying Customer & Team Engagement Solutions. Operational from 2006, we provide IT Solutions & Services that allow companies to maximize their technology investments."
       },
       {
-        "company": "Orcalo UK, Pakistan",
+        "company": "AppinSnap Islamabad, Pakistan",
         "title": "Frontend Developer",
-        "years": "Nov 2020 - Dec 2021",
-        "description": "I build the Frontend Applications with React and Angular."
+        "years": "jan 2020 - Nov 2021",
+        "description": "App in Snap is an IT Company which provides software and hardware solutions, Business Process Outsourcing service, delivering innovative business solutions and technology led BPO services. We are a company with a tradition of meeting the expanding requirements of diversified individuals and business entities"
       }
     ],
     "skills": [
@@ -68,6 +68,26 @@
         "level": "98%"
       },
       {
+        "name": "Ansible",
+        "level": "82%"
+      },
+      {
+        "name": "Docker",
+        "level": "84%"
+      },
+      {
+        "name": "Jenkins",
+        "level": "98%"
+      },
+      {
+        "name": "AWS",
+        "level": "70%"
+      },
+      {
+        "name": "Azure DevOps",
+        "level": "98%"
+      },
+      {
         "name": "Python",
         "level": "65%"
       },
@@ -77,7 +97,7 @@
       },
       {
         "name": "Git",
-        "level": "70%"
+        "level": "80%"
       },
       {
         "name": "JavaScript",
@@ -89,43 +109,16 @@
       }
     ]
   },
-  "portfolio": {
-    "projects": [
-      {
-        "title": "ZeroCodeAPI",
-        "category": "",
-        "image": "0code.jpg",
-        "url": "http://www.zerocodeapi.com/"
-      },
-      {
-        "title": "Share my dine",
-        "category": "",
-        "image": "smd.jpg",
-        "url": "http://www.sharemydine.co.uk/"
-      },
-      {
-        "title": "Foster App",
-        "category": "",
-        "image": "foster.jpg",
-        "url": "http://www.fosterapp.co.uk/"
-      },
-      {
-        "title": "Pay Penalty Charge Notice",
-        "category": "",
-        "image": "PPCN.png",
-        "url": "https://www.ppcn.co.uk/"
-      }
-    ]
-  },
+  
   "testimonials": {
     "testimonials": [
       {
         "text": "Hamza is absolutely excellent, his depth of knowledge & his work really meant a lot to us... I would definitely recommend",
-        "user": "Usama Nadeem Frontend Architect and Lead Developer at Orcalo"
+        "user": "Usama Nadeem Frontend Architect and Lead Developer at APPnSnap"
       },
       {
         "text": "Ameer Hamza is humble guy and it is great experience working with him. I highly Recomend him.",
-        "user": "Nimmy Jhon Fullstack developer at Topaz"
+        "user": "Muhammad Azhar Fullstack developer at Topaz"
       }
     ]
   }
